@@ -1,25 +1,24 @@
 
+
 <!DOCTYPE html>
 <html>
-<head>
-<title>Фотографії з описами</title>
-</head>
-<body>
-
-<h1>Фотографії з описами</h1>
-
-<div style="text-align: center;">
-
-<img src="image1.jpg" alt="Опис фотографії 1" border="5" height="200" width="300">
-<p>Текст під фотографією 1.</p>
-
-<img src="image2.jpg" alt="Опис фотографії 2" border="5" height="200" width="300">
-<p>Текст під фотографією 2.</p>
-
-<img src="image3.jpg" alt="Опис фотографії 3" border="5" height="200" width="300">
-<p>Текст під фотографією 3.</p>
-
-</div>
-
-</body>
+   <head>
+       <title>Фотографії з описами</title>
+   </head>
+       <body>
+           <p ALIGN="CENTER">
+            <FONT COLOR="#008080" SIZE="7">
+            <b>Фотографії з описами</b>
+            </FONT>
+        </p>
+        <img src="Емблема.jpg" alt="Емблема" BORDER="5" height="200" width="300">
+        <p ALIGN="CENTER">Текст під фотографією 1.
+        </p>
+        <img src="Background.jpg" alt="Хвилястий фон" BORDER="5" height="200" width="300">
+        <p ALIGN="CENTER">Текст під фотографією 2.
+        </p>
+        <img src="https://www.google.pl/url?sa=i&url=https%3A%2F%2Fonetreeplanted.org%2Fblogs%2Fstories%2Fwhat-is-a-healthy-forest&psig=AOvVaw3n-cqujioR5pP6Qi6sbAh7&ust=1739377644246000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDs06L3u4sDFQAAAAAdAAAAABAY" alt="Ліс" BORDER="5" height="200" width="300">
+        <p ALIGN="CENTER">Текст під фотографією 3.
+        </p>
+        </body>
 </html>
